@@ -4,5 +4,4 @@ This was the project in Python with Computer Vision with the help of cv2. It was
 • Delta Frame
 • Threshold Frame
 • Color Frame
-Just simply run each cells it will automatically turn ON the webacam.
 Note- First show the stationary background to the Webcam/Camera
